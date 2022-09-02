@@ -1,7 +1,7 @@
 {
-  "name": "docker_web_app",
+  "name": "nodejs_app",
   "version": "1.0.0",
-  "description": "Node.js on Docker",
+  "description": "Node.js on aws cloud9",
   "author": "S3 CloudHub s3cloudhub@gmail.com",
   "main": "server.js",
   "scripts": {
